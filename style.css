@@ -343,7 +343,7 @@ button {
 .testimonials {
   display: flex;
   justify-content: center;
-  justify-content: space-between; Elementai bus išdėstyti tolygiai
+  justify-content: space-between; 
 }
 
 .testimonial {

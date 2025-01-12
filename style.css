@@ -94,11 +94,6 @@ input[type="email"] {
     background-color: #0e2fc3;
     color: white;
     cursor: pointer;
-<<<<<<< HEAD
-  
-  
-  
-=======
 
 
 
@@ -136,9 +131,6 @@ button {
     justify-content: space-between;
     padding: 20px;
     background-color: rgb(236, 236, 236);
->>>>>>> 047b484085e5a05b19e326af7828b59e74d5bfb3
-  }
-  
   
   
   /* trys stulpeliai nauji */
@@ -203,7 +195,6 @@ button {
       color: #002366;
     }
   
-<<<<<<< HEAD
     .Stulpelis p {
       color: #1118e5;
       animation: fadeIn 1s ease-in-out; /* Pridėta išblėsimo animacija */
@@ -431,7 +422,7 @@ button {
     color: #1e0d89;
     max-width: 50%;
   margin: 0 auto;
-  justify-content: space-between
+  justify-content: space-between;
     /* max-width: 100px; Pakeiskite vertę pagal poreikį */
     /* margin: 0 auto; Centruoja tekstą konteineryje */
   }
@@ -573,7 +564,7 @@ button {
   .showcase {
       text-align: center;
       padding: 50px 0;
-=======
+  }
 
 
 /* stulpeliai ir foto */
@@ -786,8 +777,8 @@ padding: 24px;
   font-size: 18px;
   color: #1e0d89;
   max-width: 50%;
-margin: 0 auto;
-justify-content: space-between
+  margin: 0 auto;
+  justify-content: space-between
   /* max-width: 100px; Pakeiskite vertę pagal poreikį */
   /* margin: 0 auto; Centruoja tekstą konteineryje */
 }
@@ -976,5 +967,4 @@ footer li:not(:last-child)::after {
         width: 100%; /* Vaizdas užima visą eilutės plotį */
     }
   }
-  
   

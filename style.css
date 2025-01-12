@@ -1,110 +1,10 @@
 body {
-<<<<<<< HEAD
   font-family: Arial, sans-serif;
   margin: 0;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
   }
-  
-  
-  /* juros paveiksliukas */
-  header {
-    background-image: url('jura.jpg');
-    background-size: cover;
-    background-position: center;
-    margin-top: 50px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    color: white;
-    text-align: center;
-    padding: 100px 0;
-  
-  }
-  
-  nav {
-    background-color: rgb(255, 249, 249);
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 10px;
-    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
-    width: 100%;
-    position: fixed; /* Fiksuoja navigaciją viršuje */
-      top: 0; /* Išlaiko navigaciją viršuje */
-      z-index: 1; /* Uždeda navigaciją virš paveikslėlio */
-  }
-  
-  .logo {
-      font-weight: bold;
-      color: black;
-  }
-  
-  .logo:hover {
-    transform: scale(1.05); /* Slightly enlarge on hover */
-    color: #1118e5;
-  }
-  
-  .sign-in {
-    background-color: #4CAF50;
-    color: white;
-    padding: 10px 20px;
-    border-radius: 5px;
-    text-decoration: none;
-  }
-  
-  .sign-in:hover {
-    background-color: #3e8e41; /* Slightly darker green on hover */
-    transform: translateY(-2px); /* Small vertical movement */
-  }
-  
-  
-  
-  h1 {
-    font-size: 3rem; /* Pakeisk dydį pagal poreikį */
-    font-weight: bold;
-    color: rgb(228, 14, 14);
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Pridėtas šešėlis */
-    
-  }
-  
-  p {
-    color: rgb(247, 25, 25);
-    font-size: 1.5rem;
-    margin-bottom: 20px;
-    /* background-image: url('jura.jpg'); */
-  }
-  
-  input[type="email"] {
-      padding: 15px;
-      background-color: aliceblue;
-      border: 2px solid white;
-      border-radius: 10px;
-      background-color: azure;
-      color: rgb(25, 6, 172);
-      text-size-adjust: 1rem;
-      width: 300px; /* Pakeisk plotį pagal poreikį */
-  }
-  
-  button {
-      padding: 15px 30px;
-      border-radius: 10px;
-      background-color: #0e2fc3;
-      color: white;
-      cursor: pointer;
-  
-  
-  
-  }
-  input[type="email"] {
-=======
-font-family: Arial, sans-serif;
-margin: 0;
-display: flex;
-flex-direction: column;
-min-height: 100vh;
-}
 
 
 /* juros paveiksliukas */
@@ -176,7 +76,6 @@ p {
 }
 
 input[type="email"] {
->>>>>>> 047b484085e5a05b19e326af7828b59e74d5bfb3
     padding: 15px;
     background-color: aliceblue;
     border: 2px solid white;
